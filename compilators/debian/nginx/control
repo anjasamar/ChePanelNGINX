@@ -1,0 +1,9 @@
+Source: che-nginx
+Package: che-nginx
+Priority: optional
+Version: 1.22.0
+Section: web
+Maintainer: CloudVision Ltd.
+Homepage: https://chepanel.aldinara.co.id
+Architecture: amd64
+Description: Phyre Panel Nginx Web Server
