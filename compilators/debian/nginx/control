@@ -6,4 +6,4 @@ Section: web
 Maintainer: ATSiCorporation.
 Homepage: https://chepanel.aldinara.co.id
 Architecture: amd64
-Description: Phyre Panel Nginx Web Server
+Description: ChePanel Nginx Web Server
